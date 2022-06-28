@@ -1,0 +1,5 @@
+patch:
+  "menu/page_size": 9 #每页候选词个数
+  "ascii_composer/switch_key/Shift_L": commit_code #左shift提交字母
+  "style/color_scheme": dota_2
+

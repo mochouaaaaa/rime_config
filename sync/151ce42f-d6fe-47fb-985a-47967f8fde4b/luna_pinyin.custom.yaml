@@ -1,0 +1,24 @@
+# luna_pinyin.custom.yaml
+
+patch:
+  "switches/@0/reset": 1  #表示將 switcher 列表中的第一個元素（即 ascii_mode 開關）的初始值重設爲狀態 1（即「英文」）。
+  "style/horizontal": true
+  "style/display_tray_icon": true  # 顯示托盤圖標
+  "style/font_face": "明兰"  # 字體名稱，從記事本等處的系統字體對話框裏能看到
+  "style/font_point": 16
+
+  app_options/com.apple.Xcode:
+    ascii_mode: true
+  app_options/com.alfredapp.Alfred: {}
+  switches:                   # 注意縮進
+    - name: zh_simp           # 注意這裏
+      reset: 1
+      states: [ 漢字, 汉字 ]
+  simplifier:
+    option_name: zh_simp
+
+__patch:
+# Rx: emoji:customize:schema=luna_pinyin {
+  - patch/+:
+      __include: emoji_suggestion:/patch
+# }

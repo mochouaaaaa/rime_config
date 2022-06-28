@@ -1,0 +1,219 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	334
+#@/user_id	151ce42f-d6fe-47fb-985a-47967f8fde4b
+a 	啊	c=2 d=1.04789 t=334
+ba 	吧	c=1 d=1 t=180
+ba ren 	把人	c=2 d=1.69768 t=219
+bao bao 	寶寶	c=1 d=0.543351 t=334
+bei 	被	c=4 d=2.21066 t=334
+bei ren 	被人	c=1 d=1 t=281
+bi ji ben 	筆記本	c=1 d=0.65377 t=334
+bi ni 	比你	c=2 d=1.96079 t=270
+bie 	別	c=1 d=1 t=320
+bie ren 	別人	c=2 d=1.53794 t=299
+bu 	不	c=0 d=0.1 t=203
+bu chang 	補償	c=1 d=1 t=158
+bu hao shi 	不好使	c=1 d=1 t=334
+bu huang 	不慌	c=1 d=1 t=334
+bu lei 	不累	c=0 d=0.1 t=287
+bu shi 	不是	c=1 d=1 t=293
+bu shun 	不順	c=1 d=1 t=276
+bu yao 	不要	c=1 d=1 t=172
+bu za 	不咋	c=1 d=1 t=152
+bu zhao 	不找	c=1 d=1 t=216
+bu zhao ren 	不招人	c=1 d=1 t=204
+bu zhi dao 	不知道	c=3 d=2.65241 t=304
+cai hui 	纔會	c=1 d=1 t=137
+cheng 	成	c=1 d=0.860708 t=334
+da 	大	c=1 d=1 t=271
+da 	答	c=0 d=0.1 t=210
+da duo shu 	大多數	c=1 d=0.895834 t=334
+da shang lai 	答上來	c=1 d=1 t=211
+dao qi 	到期	c=1 d=0.790571 t=334
+de 	的	c=21 d=10.9704 t=334
+deng ni 	等你	c=1 d=1 t=141
+di yi ci 	第一次	c=1 d=1 t=193
+dian nao 	電腦	c=1 d=1 t=280
+dou shi 	都是	c=2 d=1.79057 t=181
+du da 	毒打	c=1 d=1 t=257
+dui 	對	c=1 d=0.694197 t=334
+duo hao 	多好	c=2 d=1.86502 t=289
+duo shao 	多少	c=1 d=0.637628 t=334
+e xin 	噁心	c=1 d=1 t=221
+fan ti zi 	繁體字	c=1 d=0.794534 t=334
+fang an 	方案	c=1 d=1 t=230
+gan jue 	感覺	c=1 d=1 t=267
+gang 	剛	c=1 d=0.677057 t=334
+ge yue 	個月	c=2 d=1.80446 t=334
+ge zhong 	各種	c=1 d=1 t=275
+gei 	給	c=2 d=1.69768 t=220
+gei ni 	給你	c=1 d=1 t=155
+gei qian 	給錢	c=1 d=1 t=316
+gei wo 	給我	c=2 d=1.18383 t=334
+gong si 	公司	c=7 d=3.23079 t=334
+gong zi 	工資	c=1 d=0.606531 t=334
+guan jian 	關鍵	c=1 d=0.759572 t=334
+guo 	過	c=1 d=1.07371 t=258
+guo nian 	過年	c=2 d=1.36212 t=334
+hai 	還	c=2 d=1.53794 t=330
+hai hao 	還好	c=1 d=1 t=179
+hai you 	還有	c=1 d=1 t=225
+hao 	好	c=2 d=1.82259 t=334
+hao hao 	好好	c=0 d=0.0618783 t=334
+hao hao zuo 	好好做	c=1 d=0.621885 t=334
+he tong 	合同	c=2 d=1.66242 t=334
+hen duo 	很多	c=1 d=1 t=162
+hou lai 	後來	c=1 d=1 t=213
+hu you 	忽悠	c=1 d=0.644036 t=334
+hu you guo 	忽悠過	c=1 d=1 t=198
+hua 	話	c=2 d=1.9362 t=334
+hua bing 	花併	c=1 d=0.574072 t=334
+hua qiang bei 	華強北	c=1 d=1 t=313
+hua shuo 	話說	c=1 d=1 t=265
+huai 	壞	c=1 d=1 t=222
+huang 	慌	c=1 d=1 t=286
+hui 	會	c=2 d=1.52994 t=324
+huo zhe 	或者	c=0 d=0.1 t=287
+huo zhe bu lei 	或者不累	c=1 d=1 t=288
+jia 	假	c=1 d=1 t=135
+jian ti 	簡體	c=6 d=3.37444 t=334
+jie 	解	c=1 d=1 t=317
+jie jue 	解決	c=2 d=1.95123 t=239
+jiu 	就	c=7 d=3.0651 t=334
+jiu shi 	就是	c=3 d=1.71747 t=334
+kai 	開	c=2 d=1.42956 t=318
+ke yi 	可以	c=2 d=1.65132 t=334
+ku 	苦	c=1 d=0.548812 t=334
+kuai 	快	c=1 d=1 t=143
+lai 	來	c=1 d=1 t=167
+lang fei 	浪費	c=1 d=1 t=174
+lao shi ren 	老實人	c=1 d=0.647265 t=334
+le 	了	c=12 d=5.89623 t=334
+liang nian 	兩年	c=1 d=0.826959 t=334
+liu ge yue 	六個月	c=1 d=1 t=151
+ma 	嗎	c=2 d=1.21883 t=334
+ma 	嘛	c=2 d=1.08649 t=334
+man 	滿	c=1 d=1 t=144
+mei 	沒	c=1 d=1 t=251
+mei bei 	沒被	c=1 d=1 t=256
+mei xin mei fei 	沒心沒肺	c=1 d=1 t=287
+mian shi 	面試	c=4 d=3.3702 t=241
+ming nian 	明年	c=1 d=0.778801 t=334
+ming tian 	明天	c=1 d=1 t=329
+mo 	莫	c=1 d=1 t=285
+mu qian 	目前	c=1 d=1 t=178
+na 	那	c=1 d=1 t=200
+na me 	那麼	c=1 d=1 t=272
+ne 	呢	c=1 d=0.740818 t=334
+ni 	你	c=4 d=2.54441 t=334
+nian qing 	年輕	c=1 d=1.09704 t=264
+ning yuan 	寧願	c=1 d=1 t=154
+pian 	騙	c=2 d=0.833501 t=334
+pian guo 	騙過	c=1 d=1 t=188
+pian ren 	騙人	c=2 d=1.86936 t=166
+ping guo 	蘋果	c=1 d=1 t=292
+ping pan 	評判	c=1 d=0.631284 t=334
+qi 	氣	c=1 d=1 t=192
+qi shi 	其實	c=2 d=1.86071 t=199
+qian 	錢	c=1 d=1 t=327
+qu 	去	c=1 d=1 t=242
+quan xin 	全薪	c=2 d=1.94649 t=334
+ran hou 	然後	c=2 d=1.83946 t=240
+ren 	人	c=3 d=1.58987 t=334
+ren bu chu lai 	認不出來	c=1 d=0.802519 t=334
+san ge yue 	三個月	c=1 d=0.909373 t=334
+san nian 	三年	c=1 d=0.88692 t=334
+shang ban 	上班	c=2 d=1.76721 t=331
+shang jia 	上家	c=1 d=0.565525 t=334
+shang lai 	上來	c=0 d=0.1 t=210
+shang zhou 	上週	c=2 d=0.983093 t=334
+she hui 	社會	c=1 d=1 t=248
+shi 	是	c=7 d=5.15228 t=334
+shi ba 	是吧	c=2 d=1.36644 t=334
+shi de 	是的	c=1 d=1 t=126
+shi hou 	時候	c=1 d=1 t=196
+shi jian 	時間	c=2 d=0.923116 t=334
+shi jie 	世界	c=1 d=1 t=245
+shi xi 	實習	c=0 d=0.0980199 t=334
+shi xi jiu 	實習就	c=1 d=0.985112 t=334
+shi xi qi 	實習期	c=5 d=3.63957 t=334
+shu ru fa 	輸入法	c=2 d=1.44652 t=334
+shuo 	說	c=2 d=0.765345 t=334
+suo 	鎖	c=5 d=3.54561 t=334
+ta 	他	c=1 d=0.609571 t=334
+tai wan ren 	臺灣人	c=1 d=0.744532 t=334
+tan 	談	c=2 d=0.937067 t=334
+ti 	提	c=1 d=0.600496 t=334
+tiao zheng 	調整	c=1 d=0.687289 t=334
+tu zhong 	途中	c=1 d=1 t=279
+wang shang 	網上	c=1 d=1 t=308
+wei 	爲	c=1 d=1 t=163
+wei shen me 	爲什麼	c=1 d=0.729789 t=334
+wei xin 	微信	c=2 d=1.09505 t=334
+wen bie ren 	問別人	c=1 d=1 t=243
+wen ti 	問題	c=2 d=1.87372 t=236
+wen tuo 	穩妥	c=1 d=1 t=153
+wen wo 	問我	c=1 d=1 t=207
+wo 	我	c=15 d=7.69961 t=334
+wo men 	我們	c=0 d=0.199501 t=159
+wo men zhe 	我們這	c=1 d=1 t=159
+wo men zhe hang 	我們這行	c=1 d=1 t=160
+wu qi bu you 	無奇不有	c=1 d=1 t=247
+xian e 	險惡	c=1 d=1 t=249
+xian zai 	現在	c=1 d=0.847894 t=334
+xiang mu 	項目	c=3 d=1.41276 t=334
+xiang xiang 	想想	c=1 d=1 t=190
+xiao 	小	c=0 d=0.1 t=258
+xiao nian qing 	小年輕	c=1 d=1 t=259
+xin li 	心理	c=1 d=0.546074 t=334
+xin tai 	心態	c=1 d=1 t=263
+xiu 	修	c=1 d=1 t=325
+xiu hao 	修好	c=1 d=0.680451 t=334
+xu yao 	需要	c=1 d=1 t=129
+ya gen 	牙根	c=2 d=1.85642 t=202
+yao shuo 	要說	c=1 d=0.733447 t=334
+ye 	也	c=1 d=1 t=303
+ye ji 	業績	c=1 d=1 t=165
+ye shi 	也是	c=1 d=0.715338 t=334
+yi ban 	一般	c=1 d=0.873716 t=334
+yi ci 	一次	c=1 d=1 t=189
+yi da dui 	一大堆	c=1 d=1 t=208
+yi dian 	一點	c=1 d=1 t=273
+yi ge 	一個	c=1 d=1 t=312
+yi ge yue 	一個月	c=1 d=1 t=156
+yi kan 	一看	c=1 d=1 t=253
+yi qian 	以前	c=1 d=1 t=185
+yi shi ban hui 	一時半會	c=1 d=0.798516 t=334
+yin wei 	因爲	c=1 d=0.831104 t=334
+ying gai 	應該	c=1 d=1 t=269
+you 	有	c=1 d=1 t=139
+you dian 	有點	c=1 d=0.591555 t=334
+you yi ge 	有一個	c=1 d=1 t=294
+yu dao 	遇到	c=1 d=1 t=235
+yuan cheng 	遠程	c=1 d=1 t=182
+yue 	月	c=1 d=0.597501 t=334
+yue fen 	月份	c=2 d=1.49447 t=334
+za 	咋	c=1 d=1 t=305
+zai 	再	c=1 d=0.628135 t=334
+zen me 	怎麼	c=1 d=1 t=238
+zhang 	長	c=2 d=1.23795 t=334
+zhang hao 	帳號	c=1 d=1 t=295
+zhao 	找	c=1 d=1 t=310
+zhao 	着	c=1 d=1 t=309
+zhao gong zuo 	找工作	c=1 d=1 t=194
+zhao ren 	招人	c=0 d=0.1 t=203
+zhe 	這	c=1 d=0.814647 t=334
+zhe bu shi 	這不是	c=1 d=0.640824 t=334
+zhe hang 	這行	c=0 d=0.1 t=159
+zhe shi 	這是	c=1 d=1 t=127
+zhen 	真	c=1 d=1 t=244
+zheng zai 	正在	c=1 d=0.683861 t=334
+zhi da 	之大	c=1 d=1 t=246
+zhuan 	賺	c=1 d=1 t=321
+zi ji 	自己	c=2 d=1.6005 t=232
+zou 	走	c=1 d=0.582748 t=334
+zui xin 	最新	c=1 d=1 t=274
+zuo 	做	c=2 d=0.842027 t=334
